@@ -1,5 +1,5 @@
 {
-	"name": "RinatGizatullin/FkrNominatimBundle",
+	"name": "rinat-gizatullin/fkr-nominatim-bundle",
 	"type": "symfony-bundle",
 	"description": "Integrates nominatim api (Geolocation API based on OpenStreetMap) into Symfony2",
 	"keywords": ["geo", "geolocation", "Symfony Bundle", "open street map", "osm", "nominatim"],
