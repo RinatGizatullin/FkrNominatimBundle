@@ -5,6 +5,7 @@
 	"keywords": ["geo", "geolocation", "Symfony Bundle", "open street map", "osm", "nominatim"],
 	"homepage": "https://github.com/fkrauthan/FkrNominatimBundle",
 	"license": "MIT",
+	"minimum-stability": "dev",
 	"authors": [
 		{
 			"name": "Florian Krauthan",
